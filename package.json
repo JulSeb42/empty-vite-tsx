@@ -13,7 +13,8 @@
         "react-dom": "^18.2.0",
         "react-helmet": "^6.1.0",
         "react-router-dom": "^6.8.0",
-        "styled-components": "^5.3.6"
+        "styled-components": "^5.3.6",
+        "ts-utils-julseb": "^2.2.5"
     },
     "devDependencies": {
         "@babel/preset-typescript": "^7.18.6",
