@@ -1,4 +1,4 @@
 /*=============================================== Export all components ===============================================*/
 
-export { default as Helmet } from "./Helmet"
-export { default as PageLayout } from "./PageLayout"
+export { default as PageLayout } from "./layouts/PageLayout"
+export * from "./TestComponent"

@@ -2,7 +2,7 @@
 
 import React from "react"
 
-import { Helmet } from "./"
+import Helmet from "./Helmet"
 import { HelmetProps } from "./Helmet"
 
 const PageLayout = ({

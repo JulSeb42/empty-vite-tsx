@@ -3,7 +3,7 @@
 import React from "react"
 import { Helmet as HelmetMeta } from "react-helmet"
 
-import siteData from "../data/site-data"
+import siteData from "../../data/site-data"
 
 const Helmet = ({ title, description, keywords, cover }: HelmetProps) => {
     return (
